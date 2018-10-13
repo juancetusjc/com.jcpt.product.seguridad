@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.jcpt.product.seguridad
+---
+testFramework: junit
+sourceLanguage: java
